@@ -94,6 +94,15 @@ Examples include:
 
 The intention was to keep the interface visually rich while maintaining a simple interaction pattern for the user.
 
+### 6. Testing & Refinement
+
+The website was tested for:
+
+- Correct layout and positioning
+- Working navigation and interactions
+- Proper popup and hover effects
+- Consistent styling and asset loading
+
 ---
 
 ## 🏗️ Technology Stack
